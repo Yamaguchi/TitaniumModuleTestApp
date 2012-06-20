@@ -1,4 +1,0 @@
-
-require("moduletesta");
-
-require("ModuleTestB");
