@@ -5,7 +5,7 @@ reporting an issue to help us understand your environment, build settings
 and aid in debugging. Please attach this log to any issue that you report.
 ================================================================================
 
-Starting build at 06/20/12 10:12
+Starting build at 06/20/12 10:48
 
 Build details:
 
@@ -19,7 +19,7 @@ Script arguments:
    /Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/builder.py
    simulator
    5.1
-   /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestApp
+   /Users/h_yamaguchi/Projects/repository/github/Yamaguchi/TitaniumModuleTestApp
    moduletestapp
    ModuleTestApp
    universal
@@ -33,7 +33,7 @@ Xcode path is: /Applications/Xcode.app/Contents/Developer
 
 [INFO] Detected third-party module: moduletestb/1.0[INFO] Detected third-party module: moduletesta/1.0[INFO] Detected third-party module: moduletestb/1.0[INFO] Detected third-party module: moduletesta/1.0
 githash=2ff31a3, existing_git_hash=2ff31a3
-writing contents of /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestApp/build/iphone/project.xcconfig:
+writing contents of /Users/h_yamaguchi/Projects/repository/github/Yamaguchi/TitaniumModuleTestApp/build/iphone/project.xcconfig:
 
 TI_VERSION=2.0.2.GA
 TI_SDK_DIR=/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/$(TI_VERSION)/iphone
